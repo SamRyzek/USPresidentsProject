@@ -43,7 +43,7 @@
 <br><br><br><br><br><br>
 <div class="main">
 <h1>${currentPres.fName} ${currentPres.midName} ${currentPres.lName}</h1>
-<img class="presImage image-blurred-edge" src="${currentPres.image }" />
+<img class="presImage image-blurred-edge" src="${currentPres.image }"/>
 <h3>${currentPres.party}</h3>
 <h4> ${currentPres.startYear} -  ${currentPres.endYear}</h4>
 
